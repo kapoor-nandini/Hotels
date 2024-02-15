@@ -1,2 +1,2 @@
-# Hotels
-adding information about hotels all around India
+# Land Tenders & hotels 
+Adding information about hotels & land Tenders all around India
